@@ -1,5 +1,8 @@
-librosa
-matplotlib
-natsort
-torch
-numpy
+librosa==0.6.2
+matplotlib==2.2.3
+natsort==5.4.1
+numpy==1.15.1
+pyworld==0.2.4
+python_speech_features
+speechpy
+nnmnkwii
